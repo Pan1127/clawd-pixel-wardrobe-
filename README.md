@@ -20,6 +20,7 @@
 
 ## 许可与素材权利
 
-- 本项目代码作为原项目的修改版本，依照 [GNU Affero General Public License v3.0](LICENSE) 发布。
-- Clawd 角色及源自原项目的美术素材不属于 AGPL-3.0 的授权范围；相关权利归各自权利人所有，具体说明见 [assets/LICENSE](assets/LICENSE)。
-- 新增素材如无单独许可说明，也不得据此推定为可自由商用。
+- 程序代码作为原项目的修改版本，依照 [GNU Affero General Public License v3.0](LICENSE) 发布。
+- Clawd 角色及源自原项目的美术素材沿用原项目的权利说明。
+- 本项目原创的衣服、帽子、表情、腮红和饰品允许二次修改，但必须保留署名和仓库链接，并以相同条款公开修改后的素材。
+- 原创衣柜素材禁止收费、商用、付费分发，也禁止用于闭源或专有产品。完整条款见 [assets/LICENSE](assets/LICENSE)。
