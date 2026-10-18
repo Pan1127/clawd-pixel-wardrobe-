@@ -12,6 +12,14 @@
 2. 将素材放入 `assets/wardrobe/`。
 3. 在 `index.html` 的 `SLOTS` 中登记素材；完整套装可同时登记进 `PRESETS`。
 
-## 许可
+## 来源与致谢
 
-代码与仓库中原创像素素材均以 MIT License 发布。
+本项目基于 [Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk) 的角色与像素宠物设计继续制作，感谢 [@rullerzhou-afk](https://github.com/rullerzhou-afk) 及原项目贡献者。
+
+当前仓库将其中的换装部分整理为可独立运行的浏览器衣柜，并增加了服装图层、帽子、眼睛、腮红、饰品、套装预设和移动端横向选择界面。它不是原项目的官方版本，也不代表原作者或相关品牌的认可。
+
+## 许可与素材权利
+
+- 本项目代码作为原项目的修改版本，依照 [GNU Affero General Public License v3.0](LICENSE) 发布。
+- Clawd 角色及源自原项目的美术素材不属于 AGPL-3.0 的授权范围；相关权利归各自权利人所有，具体说明见 [assets/LICENSE](assets/LICENSE)。
+- 新增素材如无单独许可说明，也不得据此推定为可自由商用。
