@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/readme-cover.svg" alt="Clawd Pixel Wardrobe" width="100%">
+</p>
+
 # Clawd Pixel Wardrobe
 
 一个纯前端的像素换装衣柜。可以自由组合服装、帽子、眼睛、腮红和饰品，搭配结果保存在浏览器 `localStorage`。
