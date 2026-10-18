@@ -1,26 +1,35 @@
-All Rights Reserved
+# Artwork License
 
-The artwork files in this directory and its subdirectories are not covered by
-the GNU Affero General Public License that applies to the source code.
+## Upstream artwork
 
-This project includes or adapts visual material from Clawd on Desk:
-https://github.com/rullerzhou-afk/clawd-on-desk
+This project includes or adapts visual material from
+[Clawd on Desk](https://github.com/rullerzhou-afk/clawd-on-desk).
 
-Clawd character artwork:
-  The Clawd character is the property of Anthropic
-  (https://www.anthropic.com). The Clawd pixel art is fan-created and may not
-  be used for commercial purposes.
+Clawd character artwork and artwork originating from the upstream project
+remain subject to the upstream artwork terms and the rights of their
+respective copyright holders:
 
-Original Clawd on Desk artwork and third-party contributions:
-  Copyright is retained by the respective artists. See the upstream project
-  README and assets/LICENSE for its complete attribution and terms:
-  https://github.com/rullerzhou-afk/clawd-on-desk/blob/main/assets/LICENSE
+https://github.com/rullerzhou-afk/clawd-on-desk/blob/main/assets/LICENSE
 
-Wardrobe additions:
-  Rights in newly created clothing, accessory, face, and interface artwork are
-  retained by their respective contributors unless a file carries an explicit
-  separate license.
+Nothing in this file grants additional rights to upstream artwork.
 
-Except where a file has an explicit license, artwork may not be copied,
-modified, distributed, or used without permission from the relevant rights
-holder.
+## Original wardrobe artwork
+
+The clothing, hats, facial options, blush, accessories, and other original
+wardrobe artwork added by this project may be copied and modified only under
+all of the following conditions:
+
+1. Attribution must be retained, including a link to this repository.
+2. Modified artwork must be made publicly available under these same terms.
+3. Commercial use is prohibited. The artwork and modifications may not be
+   sold, licensed for a fee, paywalled, used in paid products or services, or
+   otherwise used for commercial advantage.
+4. Use in proprietary or closed-source products is prohibited. Any project
+   that distributes or publicly deploys the artwork or a modified version
+   must provide the complete corresponding source files needed to edit the
+   artwork and must keep those artwork files under these same terms.
+5. These terms do not grant rights to the Clawd character, trademarks, or
+   any third-party material.
+
+Copyright (c) 2026 Clawd Pixel Wardrobe contributors.
+All rights not expressly granted above are reserved.
